@@ -1,8 +1,0 @@
-import {HashRouter, Link, Route, Routes, useNavigate} from "react-router-dom";
-import React, { useState } from "react";
-
-
-
-function FrontPage(){
-return()
-}
